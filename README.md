@@ -1,4 +1,6 @@
 # Sumador Bot 🤖
+Java | By Micaela Gordillo
+
 Sumador Bot es un sencillo bot de Telegram diseñado para realizar operaciones básicas de suma y mostrar un mensaje sobre la serie de Fibonacci.
 ## Uso
 1. **Inicio del Bot:**
